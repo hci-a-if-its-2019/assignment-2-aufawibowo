@@ -108,4 +108,5 @@ Know what information to get
 In the range of 18 - 60 years old
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+![abs](img/invision-sketch-1.JPG)
+![abs](img/invision-sketch-2.JPG)
