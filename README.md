@@ -22,6 +22,8 @@
     - [1. Hardware](#1-hardware)
     - [2. Users](#2-users)
   - [Part C: Prototypes](#part-c-prototypes)
+    - [Low Fidelity](#low-fidelity)
+    - [High Fidelity](#high-fidelity)
 
 [Prior assignment](https://github.com/hci-a-if-its-2019/assignment-1-aufawibowo)
 # Sketching and Prototyping
@@ -34,37 +36,33 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 
-![abs](img/case1-1.jpg)
-
 #### 1.1 Too many text, lack of icon
 
-![abs](img/case1-2.jpg)
+![abs](img/case11.jpg)
 ```
-Version 1
+Problem side to side to solution 1
 ```
-![abs](img/case1-3.jpg)
+![abs](img/case12.jpg)
 ```
-Version 2
+Problem side to side to solution 2
 ```
-![abs](img/case1-4.jpg)
+![abs](img/case13.jpg)
 ```
-Version 3
+Problem side to side to solution 3
 ```
-![abs](img/case2-1.jpg)
-
 #### 1.2 Texts to dense, need space
 
-![abs](img/case2-2.jpg)
+![abs](img/case21.jpg)
 ```
-Version 1
+Problem side to side to solution 1
 ```
-![abs](img/case2-3.jpg)
+![abs](img/case22.jpg)
 ```
-Version 2
+Problem side to side to solution 2
 ```
-![abs](img/case2-4.jpg)
+![abs](img/case23.jpg)
 ```
-Version 3
+Problem side to side to solution 3
 ```
 
 ### 2. Version Differences
@@ -108,5 +106,9 @@ Know what information to get
 In the range of 18 - 60 years old
 
 ## Part C: Prototypes
+### Low Fidelity
 ![abs](img/invision-sketch-1.JPG)
 ![abs](img/invision-sketch-2.JPG)
+![abs](img/timeline.JPG)
+
+### High Fidelity
